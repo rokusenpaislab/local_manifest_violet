@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github" fetch="https://github.com" />
+  <remote name="gitlab" fetch="https://gitlab.com" />
+
+  <!-- violet sources-->
+  <project name="roku-senpai/android_device_xiaomi_violet" path="device/xiaomi/violet" remote="github" revision="POS" />
+  <project name="roku-senpai/device-violet-firmware" path="device/xiaomi/violet-firmware" remote="gitlab" revision="master" />
+  <project name="rokusenpaislab/android_kernel_vertigo" path="kernel/xiaomi/violet" remote="github" revision="test/1" />
+  <project name="roku-senpai/android_device_xiaomi_violet-sepolicy" path="device/xiaomi/violet-sepolicy" remote="github" revision="test/1" />
+  <project name="roku-senpai/android_vendor_xiaomi_violet" path="vendor/xiaomi/violet" remote="github" revision="test/1" />
+
+  
+</manifest>
