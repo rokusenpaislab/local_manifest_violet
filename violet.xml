@@ -9,5 +9,6 @@
   <project name="roku-senpai/android_device_xiaomi_violet-sepolicy" path="device/xiaomi/violet-sepolicy" remote="github" revision="test/1" />
   <project name="roku-senpai/android_vendor_xiaomi_violet" path="vendor/xiaomi/violet" remote="github" revision="test/1" />
 
+  <project name="PixelExperience/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="twelve" />
   
 </manifest>
